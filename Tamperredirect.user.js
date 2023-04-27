@@ -14,7 +14,7 @@
 const ALTERNATIVES=new Map([
     ['twitter.com','https://nitter.pw'],
     //['reddit.com','https://libreddit.spike.codes'],
-    ['reddit.com','safereddit.com'],
+    ['reddit.com','https://safereddit.com'],
     ['youtube.com','https://yewtu.be'],
 ])
 
