@@ -13,7 +13,8 @@
 // ==/UserScript==
 const ALTERNATIVES=new Map([
     ['twitter.com','https://nitter.pw'],
-    ['reddit.com','https://libreddit.spike.codes'],
+    //['reddit.com','https://libreddit.spike.codes'],
+    ['reddit.com','safereddit.com'],
     ['youtube.com','https://yewtu.be'],
 ])
 
